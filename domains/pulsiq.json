@@ -4,6 +4,15 @@
     "github": "robonerds705-hub"
   },
   "claimedAt": "2026-10-20T10:12:44.809Z",
-  "records": {},
+  "records": {
+    "CNAME": "ebce9b961fc336bc.vercel-dns-017.com"
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "PASTE_THE_COMPLETE_VERCEL_VERIFICATION_VALUE_HERE"
+      ]
+    }
+  },
   "country": "IN"
 }
